@@ -1,0 +1,12 @@
+C:\Users\mberk\source\repos\p6Hareket\p6Hareket\bin\Debug\p6Hareket.exe.config
+C:\Users\mberk\source\repos\p6Hareket\p6Hareket\bin\Debug\p6Hareket.exe
+C:\Users\mberk\source\repos\p6Hareket\p6Hareket\bin\Debug\p6Hareket.pdb
+C:\Users\mberk\source\repos\p6Hareket\p6Hareket\obj\Debug\p6Hareket.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p6Hareket\p6Hareket\obj\Debug\p6Hareket.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p6Hareket\p6Hareket\obj\Debug\p6Hareket.Form1.resources
+C:\Users\mberk\source\repos\p6Hareket\p6Hareket\obj\Debug\p6Hareket.Properties.Resources.resources
+C:\Users\mberk\source\repos\p6Hareket\p6Hareket\obj\Debug\p6Hareket.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p6Hareket\p6Hareket\obj\Debug\p6Hareket.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p6Hareket\p6Hareket\obj\Debug\p6Hareket.exe
+C:\Users\mberk\source\repos\p6Hareket\p6Hareket\obj\Debug\p6Hareket.pdb
+C:\Users\mberk\source\repos\p6Hareket\p6Hareket\obj\Debug\p6Hareket.Islemler.resources
